@@ -145,6 +145,10 @@ a   { text-decoration:none; color:inherit; }
   color: var(--green-dark);
   font-weight: 800;
 }
+.google-meet {
+  color: var(--green-dark);
+  font-weight: 700;
+}
 .section-eyebrow {
   display: block;
   text-align: center;
