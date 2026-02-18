@@ -169,7 +169,7 @@ a   { text-decoration:none; color:inherit; }
 
 .hero-content {
   display: flex;
-  flex-direction: column-reverse;
+  flex-direction: column;
   align-items: center;
   gap: 40px;
   text-align: center;
